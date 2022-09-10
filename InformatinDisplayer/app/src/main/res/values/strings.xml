@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Informatin Displayer</string>
+    <string name="enter_data">الرجاء إدخال البيانات التالية:</string>
+    <string name="name">الإسم</string>
+    <string name="age">العمر</string>
+    <string name="next">التالي</string>
+    <string name="data">بيانات العميل:</string>
+</resources>
